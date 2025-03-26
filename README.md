@@ -30,11 +30,16 @@ If running locally, install dependencies with:
 ```bash
 pip install -r requirements.txt
 ```
-3. Update the paths in the notebook if necessary:
-
-  train_path = './data/train'
-  val_path = './data/val'
-  test_path = './data/test'
+3. Update the paths in the notebook:
+   - In Extract data update the path to your data
+```bash
+# Dataset path
+data_root = "path_to_data"
+```
+ - In Load data update the path to your project folder to store results
+```bash
+results_dir = 'path_to_project_folder/hw1-results'
+```
 
 4. Performance Snapshot
 
