@@ -20,10 +20,12 @@ The model is trained with data augmentation, weighted cross-entropy loss, and la
    - Python 3.10+
    - PyTorch (>=1.13)
    - torchvision
+   - torch
    - numpy
    - scikit-learn
    - matplotlib
-   - seaborn
+   - pandas
+   - tqdm
 
 If running locally, install dependencies with:
 
