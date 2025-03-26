@@ -1,4 +1,4 @@
-# NYCU Computer Vision 2025 Spring HW1
+# NYCU Selected Topics in Visual Recognition using Deep Learning 2025 Spring HW1
 
 **Student ID**: 313551818  
 **Name**: Marie Picquet
